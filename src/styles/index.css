@@ -1,0 +1,21 @@
+.v-label.v-label--clickable {
+    opacity: 100% !important;
+}
+
+.selected > .v-input__control > .v-field.v-field--active {
+    /*background-color: rgb(232, 245, 233);*/
+    /*color: rgb(27, 94, 32);*/
+}
+
+/*.v-expansion-panel-text__wrapper {*/
+/*     background-color: rgb(63, 81, 181);*/
+/*     color: white;*/
+/*     border-radius: 10px;*/
+/* }*/
+
+.v-timeline-item__body {
+    padding-top: 7px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
